@@ -16,7 +16,7 @@
         <i>
             <font size=6 COLOR=009900>
             <marquee>
-                SISTEMA DE INGRESO DE VEHICULOS
+                SISTEMA DE INGRESO DE VEHÍCULOS
             </marquee>
             </font>
         </i>

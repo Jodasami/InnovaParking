@@ -10,7 +10,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Listado de clientes</title>
+        <title>Listado de Clientes</title>
     </head>
     <body>
          <br>

@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Retirar Vehiculo</title>
+        <title>Retirar Vehículo</title>
     </head>
     <body>
         <form action="CustomerInfoServlet" method="get">
@@ -20,7 +20,7 @@
             <center>
                 <table> 
                     <tr>
-                    <h2>  Formulario para retirar vehiculos </h2>
+                    <h2>  Formulario para Retirar Vehículos </h2>
 
                     </tr>
 

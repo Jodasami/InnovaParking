@@ -20,7 +20,7 @@
             <center>
                 <table> 
                     <tr>
-                    <h2>  Formulario para editar información de los Vehiculos </h2>
+                    <h2>  Formulario para editar información de los Vehículos </h2>
 
                     </tr>
 
