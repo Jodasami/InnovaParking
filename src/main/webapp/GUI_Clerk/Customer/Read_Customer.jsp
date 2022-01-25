@@ -13,21 +13,24 @@
         <title>Listado de clientes</title>
     </head>
     <body>
+         <br>
+            <br>
+            <br>
+            <br>
+            <center>
         <table border="2">
             <td>Nombre</td>
-            <td>Correo</td>
-            <td>Teléfono</td>
-            <td>Dirección</td>
-            <td>Usuario</td>
+            <td>Cédula</td>
+            <td>¿Presenta alguna discapacidad?</td>
+           
             <c:forEach items="${customers}" var="currentCustomer">
                 <tr>
                     <td><c:out value="${currentCustomer.name}"/> </td>
-                    <td><c:out value="${currentCustomer.email}"/></td>
-                    <td><c:out value="${currentCustomer.phone}"/></td>
-                    <td><c:out value="${currentCustomer.address}"/></td>
-                    <td><c:out value="${currentCustomer.username}"/></td>
+                    <td><c:out value="${currentCustomer.id}"/></td>
+                    <td><c:out value="${currentCustomer.disabilityPresented}"/></td>
                 </tr>
             </c:forEach>
         </table>
+                </center>
     </body>
 </html>
