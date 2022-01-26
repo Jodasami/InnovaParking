@@ -18,7 +18,8 @@
     <body>
     <center>
         <br><br>
-        <font face="Arial" size="20px" color="#000000">Menú Principal</font>
+        <b> <font face="Arial" size="20px" color="#000000">Menú Principal</font> </b>
+        
         <br><br><br><br>
         <table border="5" cellpadding="20">
             <thead>

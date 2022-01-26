@@ -11,21 +11,21 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Ingreso al Sistema</title>
     </head>
-    <body background="Images/bG.png">
-    <br><br><br> 
+    <body background="Images/BG.png">
+        <br><br><br><br>
     <center>
         <form  name="loginForm" action="CustomerInfoServlet" method="post">
             <i>
                 <marquee><b><font color="white" size="8">Bienvenid@ a InnovaParking</font></b>
                 </marquee>
             </i>
-            
-            <br><br>
-            
-            <font size="5" color="white">
-                Digite su Usuario y Contraseña para continuar
+
+            <br><br><br><br><br><br><br><br>
+
+            <font size="6" color="white">
+            Digite su Usuario y Contraseña para continuar
             </font>
-            
+            <br><br>
             <br>
 
             <font  color="white"  ><h1 align="center"><label>Usuario:</label></h1>
@@ -45,12 +45,12 @@
             <br>
             <br>
 
-            <input type="submit" value="Ingresar" name="login" />
+            <input type="submit" value="Ingresar" name="login" size="50"/>
 
-            <input type="reset" value="Cancelar" name="cancel" />
+            <input type="reset" value="Cancelar" name="cancel" size="50"/>
 
         </form> 
     </body>
-    </center>
+</center>
 </body>
 </html>
